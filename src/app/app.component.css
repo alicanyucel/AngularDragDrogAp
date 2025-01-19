@@ -1,0 +1,17 @@
+div[cdkDrag] {
+    margin: 10px;
+    padding: 10px;
+    background: lightblue;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    cursor: move;
+  }
+  
+  div[cdkDropList] {
+    width: 200px;
+    min-height: 200px;
+    background-color: #f7f7f7;
+    padding: 10px;
+    border: 2px dashed #ccc;
+  }
+  
